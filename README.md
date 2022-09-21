@@ -1,1 +1,1 @@
-# Intro-to-Game-Design
+# Activities for Introduction to Game Design Subject
